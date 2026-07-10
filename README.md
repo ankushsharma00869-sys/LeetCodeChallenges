@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -48,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
