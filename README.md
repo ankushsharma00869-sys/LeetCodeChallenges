@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0680-valid-palindrome-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
@@ -91,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
