@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -89,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
