@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -112,9 +114,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
