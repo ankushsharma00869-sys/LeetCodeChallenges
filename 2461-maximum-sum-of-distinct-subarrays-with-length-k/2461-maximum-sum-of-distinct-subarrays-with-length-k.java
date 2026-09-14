@@ -1,46 +1,46 @@
-import java.util.HashMap;
+import java.util.*;
 
 class Solution {
-
     public long maximumSubarraySum(int[] nums, int k) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-
         int i = 0;
+        int j = 0;
+
         long sum = 0;
         long max = 0;
 
-        for (int j = 0; j < nums.length; j++) {
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-            // Add current element into window
+        while (j < nums.length) {
+
+            // Add current element
             sum += nums[j];
             map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
 
-            // If window size becomes greater than k
-            if (j - i + 1 > k) {
+            // Window size < k
+            if (j - i + 1 < k) {
+                j++;
+            }
 
-                // Remove left element from sum
+            // Window size == k
+            else {
+
+                // All elements are distinct
+                if (map.size() == k) {
+                    max = Math.max(max, sum);
+                }
+
+                // Remove nums[i]
                 sum -= nums[i];
 
-                // Decrease its frequency
                 map.put(nums[i], map.get(nums[i]) - 1);
 
-                // Remove key if frequency becomes 0
                 if (map.get(nums[i]) == 0) {
                     map.remove(nums[i]);
                 }
 
-                // Move left pointer
                 i++;
-            }
-
-            // Check when window size is exactly k
-            if (j - i + 1 == k) {
-
-                // All elements must be distinct
-                if (map.size() == k) {
-                    max = Math.max(max, sum);
-                }
+                j++;
             }
         }
 
