@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
