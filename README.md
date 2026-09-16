@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0016-3sum-closest) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
