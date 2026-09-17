@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0680-valid-palindrome-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
