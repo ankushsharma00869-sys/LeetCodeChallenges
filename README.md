@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0344-reverse-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
