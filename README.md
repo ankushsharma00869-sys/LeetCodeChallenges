@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
