@@ -12,7 +12,6 @@ class Solution {
             else{
                 ans = mid;
                 e = mid-1;
-
             }
         }
         return ans;
