@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0069-sqrtx) |
 | [0470-implement-rand10-using-rand7](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0470-implement-rand10-using-rand7) |
 | [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -206,4 +209,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0470-implement-rand10-using-rand7) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
