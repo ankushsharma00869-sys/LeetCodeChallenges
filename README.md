@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0069-sqrtx) |
+| [0470-implement-rand10-using-rand7](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0470-implement-rand10-using-rand7) |
 | [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
@@ -193,4 +194,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0069-sqrtx) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
