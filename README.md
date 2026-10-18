@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0268-missing-number) |
 | [0470-implement-rand10-using-rand7](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0470-implement-rand10-using-rand7) |
 | [0523-continuous-subarray-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
@@ -221,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
