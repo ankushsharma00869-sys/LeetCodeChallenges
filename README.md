@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0152-maximum-product-subarray) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
 ## Stack
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0169-majority-element) |
 ## Counting
 |  |
