@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0877-stone-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |
