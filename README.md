@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0242-valid-anagram) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Hash Table
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0268-missing-number) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
