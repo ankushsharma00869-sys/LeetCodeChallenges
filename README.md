@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0125-valid-palindrome) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
 ## Ternary Search
 |  |
