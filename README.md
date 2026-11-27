@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0067-add-binary) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0160-intersection-of-two-linked-lists) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankushsharma00869-sys/LeetCodeChallenges/tree/master/0069-sqrtx) |
